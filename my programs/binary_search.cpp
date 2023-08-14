@@ -45,6 +45,8 @@ int main()
 
    if(Index_of_target==-1){
     cout<<"Traget not found"<<endl;
+    cout<<"Traget not found"<<endl;
+
    }
    else{
     cout<<"target found at index: "<<Index_of_target<<endl;
